@@ -84,7 +84,7 @@ Follow these instructions to get the project up and running.
 
 ```bash
 # clone the repo
-$ git clone https://github.com/ravgeetdhillon/notion-feeder.git
+$ git clone https://github.com/r00tp/notion-feeder.git
 
 # change directory
 $ cd notion-feeder
